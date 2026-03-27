@@ -11,15 +11,18 @@ In Week 2, I performed customer analysis using SQL on the Superstore dataset.
 SQL Queries Used:
 
 1. Total Sales
+   
 SELECT SUM(Sales) AS total_sales
 FROM superstore;
 
 2. Customer-wise Sales
+ 
 SELECT Customer_Name, SUM(Sales) AS total_sales
 FROM superstore
 GROUP BY Customer_Name;
 
 3. Top Customers
+   
 SELECT Customer_Name, SUM(Sales) AS total_sales
 FROM superstore
 GROUP BY Customer_Name
