@@ -13,17 +13,20 @@ SQL Queries Used:
 1. Total Sales
    
 SELECT SUM(Sales) AS total_sales
+
 FROM superstore;
 
 2. Customer-wise Sales
  
 SELECT Customer_Name, SUM(Sales) AS total_sales
+
 FROM superstore
 GROUP BY Customer_Name;
 
 3. Top Customers
    
 SELECT Customer_Name, SUM(Sales) AS total_sales
+
 FROM superstore
 GROUP BY Customer_Name
 ORDER BY total_sales DESC;
