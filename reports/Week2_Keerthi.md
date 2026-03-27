@@ -21,6 +21,7 @@ FROM superstore;
 SELECT Customer_Name, SUM(Sales) AS total_sales
 
 FROM superstore
+
 GROUP BY Customer_Name;
 
 3. Top Customers
@@ -28,7 +29,9 @@ GROUP BY Customer_Name;
 SELECT Customer_Name, SUM(Sales) AS total_sales
 
 FROM superstore
+
 GROUP BY Customer_Name
+
 ORDER BY total_sales DESC;
 
 Conclusion:
