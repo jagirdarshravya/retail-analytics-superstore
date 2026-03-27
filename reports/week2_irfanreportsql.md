@@ -39,22 +39,22 @@ ORDER BY total_profit DESC;
 
 4. Profit by Sub-Category
 
-sql
+```sql
 SELECT "Sub-Category", SUM(Profit) AS total_profit
 FROM profit_data
 GROUP BY "Sub-Category"
 ORDER BY total_profit DESC;
-
+```
 
 5. Top 5 Most Profitable Products
 
-sql
+```sql
 SELECT "Product Name", SUM(Profit) AS total_profit
 FROM profit_data
 GROUP BY "Product Name"
 ORDER BY total_profit DESC
 LIMIT 5;
-
+```
 Conclusion:
 
 In this week, I used SQL queries to analyze profit data and extract insights such as total profit, top categories, regional performance, and most profitable products. This helped in better understanding of business performance and decision-making.
