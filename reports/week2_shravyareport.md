@@ -1,15 +1,18 @@
 Week 2: SQL Analysis
 
-### Sales Analysis (Shravya):
+### Sales Analysis (Shravya)
+In Week 2, I used SQL to analyze the sales data.
 
-In Week 2, I performed sales analysis using SQL on the Superstore dataset to extract meaningful business insights.
+### What I did:
+- I calculated total sales using SUM function
+- I grouped data by Product Name to find top-selling products
+- I grouped data by Category to compare sales
+- I grouped data by Region to understand sales distribution
 
-- Calculated total sales using the SUM function to understand total revenue.
-- Analyzed sales by Product Name using GROUP BY to identify top-selling products.
-- Sorted results using ORDER BY to highlight highest revenue generating products.
-- Analyzed sales by Category to understand which product categories perform best.
-- Evaluated sales across different Regions to identify high-performing areas.
+### Insights:
+- Technology category has the highest sales
+- Some products are selling more than others
+- Sales are different in each region
 
 ### Conclusion:
-
-In this week, I used SQL queries to analyze sales data and extract insights such as total sales, top products, top sales per category and total sales by region. This helped me in better understanding of sales performance and business decision making.
+In this week, SQL helped me to analyze the data more clearly. I was able to find total sales, top products, and sales trends.
