@@ -1,11 +1,26 @@
--- Total Sales
-SELECT SUM(Sales) FROM superstore;
+-- ============================================
+-- CUSTOMER ANALYSIS - SUPERSTORE DATASET
+-- ============================================
 
+-- --------------------------------------------
+-- Total Sales
+-- This query calculates total revenue
+-- --------------------------------------------
+SELECT SUM(Sales) AS total_sales
+FROM superstore;
+
+-- --------------------------------------------
 -- Top Customers
-SELECT Customer_Name, SUM(Sales)
+-- This query identifies top customers by sales
+-- --------------------------------------------
+SELECT Customer_Name, SUM(Sales) AS total_sales
 FROM superstore
 GROUP BY Customer_Name
-ORDER BY SUM(Sales) DESC;
+ORDER BY total_sales DESC;
 
+-- --------------------------------------------
 -- Total Profit
-SELECT SUM(Profit) FROM superstore;
+-- This query calculates total profit
+-- --------------------------------------------
+SELECT SUM(Profit) AS total_profit
+FROM superstore;
