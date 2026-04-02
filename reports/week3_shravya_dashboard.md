@@ -18,4 +18,4 @@ Insights:
 
 Conclusion:
 
-This dashboard helps to understand sales performance easily. By using charts and filters, it becomes easy to analyze data and find useful insights.
+This dashboard helps to understand sales performance easily. By using charts and filters, it becomes easy to analyze data and find useful insights.This dashboard can help businesses make better decisions.
