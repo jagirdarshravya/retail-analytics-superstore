@@ -43,3 +43,4 @@ This project is based on the Superstore dataset.
 
 ## Conclusion
 This project helped in understanding sales performance and trends. The dashboard makes it easy to analyze data and take better business decisions.
+This project demonstrates practical data analysis using Excel, SQL, and Power BI.
