@@ -1,13 +1,21 @@
-Week 1: Collection, Set up, and Basic Cleaning of Data
+Week 1: Collection, Setup, and Basic Cleaning of Dataset
+
 Customer Analysis (Keerthi):
-- Understood the Superstore dataset with focus on customer data  
-- Analyzed how customers are purchasing different products  
-- Identified top customers based on total sales  
-- Observed basic customer buying behavior  
+
+In Week 1, I worked on understanding the Superstore dataset with a focus on customer analysis.
+
+- Analyzed customer purchasing behavior
+- Identified top customers based on total sales
+- Observed how customers interact with different product categories
+- Gained basic insights into customer distribution
+
 Data Cleaning:
-- Checked for null (missing) values  
-- Removed duplicate records  
-- Corrected and formatted date column  
+
+- Checked for null (missing) values in the dataset
+- Removed duplicate records to maintain data accuracy
+- Reviewed and formatted the Order Date column
+- Ensured all columns have correct data types
+
 Conclusion:
-- Completed data cleaning  
-- Got clear understanding of customer data
+
+Basic customer analysis was performed and initial data cleaning was completed successfully.
