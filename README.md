@@ -36,11 +36,24 @@ This project is based on the Superstore dataset.
   - Region filter
   - Month filter
 
+## Week 4: Final Insights
+- Technology category has highest sales  
+- Sales show a trend over time  
+- West region has higher sales  
+- Some products contribute more to total sales  
+
+## Suggestions
+- Focus on high-performing categories  
+- Improve sales in low-performing regions  
+- Promote top-selling products  
+
 ## Tools Used
 - Excel
 - SQL (SQLite)
 - Power BI
 
 ## Conclusion
-This project helped in understanding sales performance and trends. The dashboard makes it easy to analyze data and take better business decisions.
+This project helped in understanding sales performance and trends.
 This project demonstrates practical data analysis using Excel, SQL, and Power BI.
+This project also help me to understand real-world data analysis.
+This project covers data cleaning, analysis, visualization, and insights.
