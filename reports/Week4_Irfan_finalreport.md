@@ -18,7 +18,7 @@ What can be improved (Recommendations):
 Final Work & Submission:
 - I documented all the findings and insights based on the dashboard
 - Updated my GitHub repository with:
-Week-wise work
+- Week-wise work
 Dashboard report
 Project files
 Dashboard screenshots
