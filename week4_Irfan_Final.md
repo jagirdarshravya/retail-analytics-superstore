@@ -4,14 +4,14 @@ In this week, I analyzed the Profit Dashboard and extracted key insights from th
 
 Key Insights:
 - The West region generates the highest profit
-Profit shows fluctuations over time
-Technology category contributes the most profit
-Some regions and categories have lower performance
+- Profit shows fluctuations over time
+- Technology category contributes the most profit
+- Some regions and categories have lower performance
 
 What I did:
-Interpreted dashboard visuals to understand trends
-Documented insights and observations
-Updated GitHub with reports and dashboard screenshots
+- Interpreted dashboard visuals to understand trends
+- Documented insights and observations
+- Updated GitHub with reports and dashboard screenshots
 
 Conclusion:
 
