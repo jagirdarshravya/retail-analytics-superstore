@@ -36,7 +36,7 @@ ORDER BY total_profit DESC;
 
 
 --  5. Top 5 Most Profitable Products
--- Result: Displays top 5 products contributing highest profit (e.g., Canon Copier etc.)
+-- Result: Displays top 5 products contributing highest profit (example - Canon Copier etc.)
 SELECT "Product Name", SUM(Profit) AS total_profit
 FROM profit_data
 GROUP BY "Product Name"
