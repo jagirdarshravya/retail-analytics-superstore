@@ -1,5 +1,5 @@
 Week 2: Profit Analysis using SQL
--- Table: profit_data
+-- Table: profit_data (Superstore)
 -- =========================================
 
 --  1. Total Profit
