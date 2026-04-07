@@ -1,4 +1,4 @@
-Week 4: Insight Generation, Reporting, and Final Submission
+Week 4: Insight Generation, Reporting and Final Submission
 
 In Week 4, I focused on understanding the dashboard I created and analyzing the data more deeply to extract useful insights. The main goal was not just to look at the charts, but to understand what the data is actually telling about profit performance.
 
