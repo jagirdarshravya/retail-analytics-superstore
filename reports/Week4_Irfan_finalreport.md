@@ -16,7 +16,7 @@ What can be improved (Recommendations):
 - Trends over time should be monitored regularly to avoid sudden drops in profit
 
 Final Work & Submission:
-I documented all the findings and insights based on the dashboard
+- I documented all the findings and insights based on the dashboard
 Updated my GitHub repository with:
 Week-wise work
 Dashboard report
