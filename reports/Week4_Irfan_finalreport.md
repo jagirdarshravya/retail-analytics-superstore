@@ -7,7 +7,7 @@ Insights from Dashboard:
 - The profit trend over time is not consistent and shows ups and downs, with a slight decline in later periods
 - The Technology category contributes the highest share of profit among all categories
 - Some categories and regions are generating less profit, which shows there is scope for improvement
-By using filters like date, category, and region, I noticed that profit changes significantly, which helps in better understanding specific segments
+- By using filters like date, category, and region, I noticed that profit changes significantly, which helps in better understanding specific segments
 
 What can be improved (Recommendations):
 More focus can be given to top-performing regions to maximize profit
