@@ -3,7 +3,7 @@ Week 4: Insights and Final Submission
 In this week, I analyzed the Profit Dashboard and extracted key insights from the visualizations.
 
 Key Insights:
-The West region generates the highest profit
+- The West region generates the highest profit
 Profit shows fluctuations over time
 Technology category contributes the most profit
 Some regions and categories have lower performance
