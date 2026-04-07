@@ -20,7 +20,7 @@ Final Work & Submission:
 - Updated my GitHub repository with:
 - Week-wise work
 - Dashboard report
-Project files
+- Project files
 Dashboard screenshots
 
 Conclusion:
