@@ -19,7 +19,7 @@ Final Work & Submission:
 - I documented all the findings and insights based on the dashboard
 - Updated my GitHub repository with:
 - Week-wise work
-Dashboard report
+- Dashboard report
 Project files
 Dashboard screenshots
 
