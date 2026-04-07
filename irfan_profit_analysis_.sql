@@ -2,7 +2,7 @@ Week 2: Profit Analysis using SQL
 -- Table: profit_data (Superstore)
 -- =========================================
 
---  1. Total Profit
+--  1. Find out Total Profit
 -- Result: ~286,397
 SELECT SUM(Profit) AS total_profit
 FROM profit_data;
