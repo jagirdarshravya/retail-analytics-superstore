@@ -28,7 +28,7 @@ ORDER BY total_profit DESC;
 
 
 --  4. Profit by Sub-Category
--- Result: Identifies most and least profitable sub-categories within each category.
+-- Result: Identified most and least profitable sub categories within each category.
 SELECT "Sub-Category", SUM(Profit) AS total_profit
 FROM profit_data
 GROUP BY "Sub-Category"
