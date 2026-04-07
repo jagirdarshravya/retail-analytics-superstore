@@ -13,7 +13,7 @@ What can be improved (Recommendations):
 - More focus can be given to top-performing regions to maximize profit
 - Low performing categories should be analyzed to understand why they are not generating enough profit
 - Business strategies can be adjusted based on region-wise and category-wise performance
-Trends over time should be monitored regularly to avoid sudden drops in profit
+- Trends over time should be monitored regularly to avoid sudden drops in profit
 
 Final Work & Submission:
 I documented all the findings and insights based on the dashboard
