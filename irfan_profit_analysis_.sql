@@ -9,7 +9,7 @@ FROM profit_data;
 
 
 --  2. Profit by Category
--- Result:
+-- Result -
 -- Technology       ~145,454
 -- Office Supplies  ~122,490
 -- Furniture        ~18,451
