@@ -20,7 +20,7 @@ ORDER BY total_profit DESC;
 
 
 --  3. Profit by Region
--- Result: Profit varies across regions; top-performing region has highest contribution.
+-- Result: Profit varies across regions; top performing region has highest contribution.
 SELECT Region, SUM(Profit) AS total_profit
 FROM profit_data
 GROUP BY Region
