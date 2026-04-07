@@ -9,7 +9,7 @@ Insights from Dashboard:
 - Some categories and regions are generating less profit, which shows there is scope for improvement
 - By using filters like date, category, and region, I noticed that profit changes significantly, which helps in better understanding specific segments
 
-What can be improved (Recommendations):
+What can be improved ( My Recommendations):
 - More focus can be given to top-performing regions to maximize profit
 - Low performing categories should be analyzed to understand why they are not generating enough profit
 - Business strategies can be adjusted based on region-wise and category-wise performance
@@ -21,7 +21,6 @@ Final Work & Submission:
 - Week-wise work
 - Dashboard report
 - Project files
-Dashboard screenshots
 
 Conclusion:
 
