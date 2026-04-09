@@ -1,0 +1,22 @@
+Week 1: Data Collection, Setup, and Data Cleaning
+
+Data Cleaning (Faraha):
+
+In Week 1, I focused on understanding and preparing the Superstore dataset for analysis.
+
+- Loaded dataset using Python (Pandas)
+- Checked for missing (null) values in all columns
+- Verified that no duplicate records were present
+- Converted 'Order Date' and 'Ship Date' into proper datetime format
+- Ensured correct data types for all columns
+- Explored dataset structure using df.info() and df.describe()
+
+Key Observations:
+
+- Dataset contains sales, profit, customer, and shipping details
+- No major missing values were found
+- Data was clean and ready for analysis after formatting
+
+Conclusion:
+
+The dataset was successfully cleaned and prepared for further analysis.
