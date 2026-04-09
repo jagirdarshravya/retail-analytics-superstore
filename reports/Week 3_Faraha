@@ -1,0 +1,95 @@
+Week 3: Superstore Sales & Operations Dashboard (Power BI)
+1. Objective
+The objective of this project is to analyze retail business performance using the Superstore dataset and develop an interactive Power BI dashboard to generate insights across sales, profit, customers, regions, and logistics operations.
+
+2. Tools Used
+Power BI Desktop
+DAX (Data Analysis Expressions)
+Data Modeling & Visualization
+3. Data Preparation & Modeling
+The cleaned dataset prepared in Week 1 was loaded into Power BI. Additional transformations were performed to support advanced analysis.
+
+-Calculated Columns:
+Delivery Days
+Expected Delivery Days
+Delivery Status (On-Time / Delayed)
+Customer Orders
+Customer Type (Repeat / One-Time)
+Discount Bins
+Profit Category
+
+These columns enabled better segmentation and operational analysis.
+
+Measures Created:
+Total Sales
+Total Profit
+Profit Margin %
+Total Orders
+Number of Customers
+Total Quantity Sold
+Average Order Value
+Profit per Order
+Sales Growth %
+Average Delivery Days
+Customer Contribution %
+On-Time Orders
+Delayed Orders
+On-Time Delivery %
+Number of Products
+Profit Contribution %
+
+These measures allow dynamic and interactive analysis across multiple business dimensions.
+
+4. Dashboard Structure
+
+The dashboard consists of five key pages:
+
+- Executive Overview
+
+Provides a high-level summary of business performance with key KPIs, sales trends, and profitability insights across categories and regions.
+
+-Product Performance Analysis
+
+Analyzes product-level performance, identifying top-performing and loss-making products, along with sub-category contribution to profit.
+
+-Customer Insights
+
+Focuses on customer behavior and contribution, including segmentation, repeat vs one-time customers, and customer profitability.
+
+-Regional Performance
+
+Examines geographical performance by analyzing sales, profit, and margin across regions and states, including identification of loss-making areas.
+
+-Logistics & Operations
+
+Evaluates delivery performance, shipping efficiency, and operational delays, along with their impact on profitability.
+
+-5. Visualization Approach
+
+The dashboard includes a mix of:
+
+KPI Cards for key metrics
+Bar Charts for comparisons
+Line Charts for trends
+Scatter Plots for relationships
+Donut Charts for distributions
+
+Interactive slicers (Year, Category, Region, Ship Mode) were used to enable dynamic filtering and deeper analysis.
+
+6. Key Business Insights
+Sales show an overall increasing trend, but profitability is impacted by high discounts
+Some high-sales products generate low or negative profit
+A small group of customers contributes significantly to total revenue
+Certain regions have high sales but lower profit margins
+Standard Class shipping has longer delivery times and contributes more to delays
+Delivery delays can negatively impact profitability and operational efficiency
+
+7. Business Recommendations
+Reduce excessive discounting to improve profit margins
+Review and optimize loss-making products
+Focus on retaining high-value customers
+Improve performance in low-profit regions through cost optimization
+Enhance shipping efficiency, especially for Standard Class
+Monitor and reduce delivery delays to improve customer satisfaction
+8. Conclusion
+This dashboard provides a comprehensive and interactive view of business performance across multiple dimensions. It enables better decision-making by identifying key trends, inefficiencies, and opportunities for improvement.
