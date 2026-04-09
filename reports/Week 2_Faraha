@@ -1,0 +1,26 @@
+Week 2: SQL Analysis – Regional Performance
+
+Regional Analysis (Faraha):
+
+In Week 2, I performed SQL-based analysis focusing on regional performance.
+
+- Calculated total sales by region
+- Identified top-performing regions (West, East)
+- Analyzed profit and profit margin by region
+- Identified loss-making regions using HAVING clause
+- Analyzed top states within each region
+- Identified top cities such as New York City, Los Angeles, and Seattle
+- Evaluated category performance across regions
+- Calculated average shipping time by region
+
+Key Insights:
+
+- West region generated the highest sales and profit
+- East region showed strong performance in major cities like New York City
+- Central region had lower profit margin compared to others
+- Technology category contributed the highest sales across regions
+- Average shipping time ranged around 3–4 days across regions
+
+Conclusion:
+
+SQL analysis provided clear insights into regional sales performance, helping identify high-performing regions, states, and cities.
