@@ -14,13 +14,17 @@ Imported cleaned dataset into Power BI
 Created multiple visualizations to analyze data:
 
 Sales by Segment (Bar Chart)
+
 Profit by Region (Bar Chart)
+
 Profit by Category (Bar Chart)
 
 Added KPI Cards:
 
 Total Sales
+
 Total Profit
+
 Total Orders (Quantity)
 
 Applied formatting and design:
