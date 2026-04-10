@@ -38,7 +38,9 @@ Organized visuals in a structured layout to improve readability
 Tools & Technologies Used:
 
 Microsoft Excel (Data Cleaning)
+
 Power BI (Dashboard Creation)
+
 GitHub (Project Upload)
 
 Outcome:
