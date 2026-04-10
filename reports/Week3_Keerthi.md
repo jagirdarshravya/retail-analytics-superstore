@@ -4,6 +4,7 @@ Project Title: Retail Sales Data Analysis and Dashboard
 
 Objective:
 
+
 The objective of this week is to perform data visualization and create an interactive dashboard using Power BI to gain business insights from the retail sales
 dataset.
 
@@ -13,9 +14,9 @@ Imported cleaned dataset into Power BI
 
 Created multiple visualizations to analyze data:
 
-Sales by Segment (Bar Chart)
+ .Sales by Segment (Bar Chart)
 
-Profit by Region (Bar Chart)
+.Profit by Region (Bar Chart)
 
 Profit by Category (Bar Chart)
 
