@@ -147,3 +147,61 @@ Time Period: 2014–2017
 This project demonstrates how data analytics can be used to identify business problems and provide actionable insights. The dashboard supports better decision-making by highlighting key performance drivers and inefficiencies.
 
 ---
+---
+
+## My Contribution (Keerthi – Customer Analysis)
+
+### Week 1:
+- Performed data cleaning using Excel  
+- Handled missing values and duplicates  
+- Created pivot tables for:
+  - Customer-wise sales  
+  - Category-wise sales  
+
+---
+
+### Week 2:
+- Used SQL for data analysis  
+- Calculated total sales and profit  
+- Identified top customers based on sales  
+- Analyzed customer contribution to revenue  
+
+---
+
+### Week 3:
+- Created dashboard using Power BI  
+- Added visuals:
+  - Total Sales KPI  
+  - Total Profit KPI  
+  - Customer-wise sales  
+  - Sales by category  
+  - Sales by region  
+- Added filters for better analysis  
+
+---
+
+### Week 4: Final Insights
+- Few customers contribute more to total sales  
+- Technology category performs well  
+- Sales vary across regions  
+- Customer segmentation helps in better understanding  
+
+---
+
+## Suggestions
+- Focus on high-value customers  
+- Improve engagement with low-performing customers  
+- Target marketing based on customer behavior  
+- Monitor customer trends regularly  
+
+---
+
+## Tools Used
+- Excel  
+- SQL  
+- Power BI  
+
+---
+
+## Conclusion
+This project helped me understand customer behavior and improve my skills in data analysis, SQL, and dashboard creation.
