@@ -1,0 +1,45 @@
+Week 4: Insight Generation, Reporting, and Final Submission
+Overview
+
+In Week 4, the focus was on interpreting the dashboard visualizations and converting analytical findings into meaningful business insights and strategic recommendations.
+
+Work Completed
+Analyzed all dashboard pages including:
+Executive Overview
+Product Performance
+Customer Insights
+Regional Performance
+Logistics & Operations
+
+Identified key business insights such as:
+Profit is concentrated in a few product categories
+High discounts negatively impact profitability
+Some customers and products consistently generate losses
+Regional performance is uneven
+Logistics shows a high delay rate (~34%)
+
+Created a comprehensive final report documenting:
+Business insights
+Performance gaps
+Strategic recommendations
+
+Developed actionable recommendations, including:
+Reducing excessive discounting
+Optimizing product portfolio
+Improving customer segmentation
+Enhancing logistics efficiency
+Strengthening regional strategy
+
+Final Deliverables
+Interactive Power BI Dashboard
+- Final Insights & Recommendations Report (Word/PDF)
+- Business-focused analysis across all dimensions
+- GitHub repository with documentation and visuals
+
+Outcome
+
+The final output provides a complete business intelligence solution that helps in:
+
+Identifying profitability drivers
+Detecting operational inefficiencies
+Supporting data-driven strategic decisions
