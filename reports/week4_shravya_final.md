@@ -4,9 +4,9 @@ In Week 4, I looked at my dashboard and tried to understand the sales data clear
 
 Key Insights:
 - Technology category has the highest sales
-- Sales change over time and follow a trend
-- West region has higher sales compared to other regions
-- Some products are selling more than others
+- Sales change over time.
+- West region has higher sales compared to other regions.
+- Some products are selling more than others.
 
 Suggestions:
 - Focus more on high-performing categories like Technology
